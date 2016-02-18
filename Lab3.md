@@ -19,3 +19,5 @@ number 4
 ![alt text](https://raw.githubusercontent.com/erinjordan24/lab3part1/master/gitIntro4.PNG)
 ## Course project repository
 [here](https://github.com/erinjordan24/courseproject/tree/master)
+## link to table six story repositoty
+[here](https://github.com/harrij15/Story/tree/master/Table6)
